@@ -8,10 +8,10 @@
 ##    3.Multilayer Perceptron
 ##    4.Gradient Boosting Classifier Classifier
 ##    5.Parallel SVM
-**To read more about the models and their metrics, go through the report.pdf file**
+**To read more about the models and their metrics, go through the cap6610_sp19_project_final_aqualung.pdf file**
 
 **Datapreprocess2.py is the pre processer for csv file generation**
 
 **The best performing model was the Multi Layer Perceptron with a 67% accuracy on the test set**
 
-**Go through the report.pdf for more details**
+**Go through the cap6610_sp19_project_final_aqualung.pdf for more details**

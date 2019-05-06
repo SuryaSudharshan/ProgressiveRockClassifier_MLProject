@@ -12,6 +12,6 @@
 
 **Datapreprocess2.py is the pre processer for csv file generation**
 
-**The best performing model was the Multi Layer Perceptron with a 67% accuracy on the test set.
+**The best performing model was the Multi Layer Perceptron with a 67% accuracy on the test set**
 
-**Go through the report.pdf for more details.
+**Go through the report.pdf for more details**
